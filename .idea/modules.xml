@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../rust_lidar/.idea/RustLidar.iml" filepath="$PROJECT_DIR$/../rust_lidar/.idea/RustLidar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lds01-rs.iml" filepath="$PROJECT_DIR$/.idea/lds01-rs.iml" />
     </modules>
   </component>
 </project>
